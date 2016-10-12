@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Wesam <wesam.co@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^2.1.0",
+    "lodash": "^4.16.4"
+  }
 }
